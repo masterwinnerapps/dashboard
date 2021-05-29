@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "savanapointofficial": {
+      "hosting": {
+        "black-dashboard-angular": [
+          "savanapointofficial"
+        ]
+      }
+    }
+  }
+}
